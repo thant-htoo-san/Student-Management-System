@@ -1,0 +1,5 @@
+# Server port (optional)
+server.port=8080
+
+# (You don't need database settings for this version)
+spring.main.allow-bean-definition-overriding=true
